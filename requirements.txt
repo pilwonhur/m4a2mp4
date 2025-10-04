@@ -1,0 +1,33 @@
+# Requirements for M4A to MP4 Converter
+# This script uses FFmpeg for video/audio processing
+# FFmpeg must be installed separately on your system
+
+# Python standard library modules used:
+# - os
+# - sys  
+# - argparse
+# - subprocess
+# - pathlib
+# - json
+
+# External dependencies:
+# FFmpeg (must be installed separately)
+# 
+# Installation instructions for FFmpeg:
+# 
+# macOS:
+#   brew install ffmpeg
+# 
+# Ubuntu/Debian:
+#   sudo apt update
+#   sudo apt install ffmpeg
+# 
+# Windows:
+#   Download from https://ffmpeg.org/download.html
+#   Or use chocolatey: choco install ffmpeg
+# 
+# CentOS/RHEL:
+#   sudo yum install ffmpeg
+#   # or for newer versions:
+#   sudo dnf install ffmpeg
+
